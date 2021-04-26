@@ -45,10 +45,7 @@ else{
         printf("%0.2f libras esterlinas equivalen a: %0.3f pesos  \n", cantidad, (cantidad * libra));
         
         break;
-    case 7:
-        printf("Error \n Elige una opcion valida\n");
-        break;
-  
+    
     }
     return 0;
 
