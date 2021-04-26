@@ -4,8 +4,8 @@ int main()
 {
     float dolar = 19.83, euro = 23.96, libra = 27.56, cantidad;
     int opcion;
-    printf("Bienvenido a la calculadora de cambio de divisas\n");
-    printf("Selecciona una opcion:\n");
+    printf("\nCalculadora de cambio de divisas de\nAlfredo Araujo Rivas\n");
+    printf("\n\nSelecciona una opcion:\n");
     printf(" 1. Pesos a Dolar americano\n 2. Dolar Americano a Pesos\n 3. Pesos a Euros\n 4. Euros a Pesos\n 5. Pesos a Libras Esterlinas\n 6. Libras Esterlinas a Pesos\n");
     scanf("%d", &opcion);
     
